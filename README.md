@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @StoneCodeKilla...don't let the name fool you, I'm the new guy taking CS50! Grateful to be here and learn!
+- 👋 Hi, I’m @StoneCodeKilla...currently involved with The Odin Project. Grateful to be here and learn!
 - 👀 I’m interested in ...Real Estate Investing, Surfing, Travel, Jiu Jitsu 
-- 🌱 I’m currently learning ... the basics of Computer Science
+- 🌱 I’m currently learning ... Web development
 - 💞️ I’m looking to collaborate on ... anything that I find fun or interesting
 - 📫 How to reach me ... Maui, Hawaii -  Orlandomeadows@aol.com 
 
