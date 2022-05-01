@@ -1,4 +1,4 @@
-Hi, I’m Brinton Meadows!...I'm a full-stack software engineer at #100Devs.
+Hi, I’m Brinton Meadows!...I'm a full-stack software engineer at 100Devs.
 
 I am a full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. 
 I don't get got, I go get crisp, clean, excellent and responsive websites that suit the desires of my clients. 
