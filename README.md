@@ -5,7 +5,7 @@ I don't get got, I go get crisp, clean, excellent and responsive websites that s
 I am eager to solve problems through innovative solutions and collaboration.
 Hawaii is my home, my hobbies include surfing, travel, jiujitsu and culinary delights. 
 
-You can reach me @ orlandomeadows@aol.com
+You can reach me @ BMeadowsDev@gmail.com
 
 <!---
 StoneCodeKilla/StoneCodeKilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
